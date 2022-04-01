@@ -1,4 +1,4 @@
-## Oiii eu sou Matheus Furquim
+## Oi eu sou o Matheus Furquim
 
 <div align="center">
   <a href="https://github.com/matfatjoe">
@@ -17,6 +17,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/m-furquim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/matfatjoe/matfatjoe/blob/output/github-contribution-grid-snake.svg)
- 
+   ![Snake animation](https://github.com/matfatjoe/matfatjoe/blob/output/github-contribution-grid-snake.svg)
+
 </div>
